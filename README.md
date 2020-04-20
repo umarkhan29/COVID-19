@@ -44,3 +44,5 @@ We got labels for every image from metadata.csv and in new creted dataset, first
 label == 1 defines COVID-19 and Label == 0 defines all others <br>
 Since Excel contains XFD as last column and XFD equals 16384. Thus we have to look for the resized height and width <br>
 In this example we took 40 x 40 with 3 channels making total row size (40x40x3)+1 +1 is added because label is stored as first attribute of image
+
+##### This will be used for some users who want to work with CSV dataset and not the images directly

@@ -1,0 +1,3 @@
+Download the dataset from https://github.com/ieee8023/covid-chestxray-dataset/
+
+This directory will be used as the base directory to get COVID and Normal-images directory data using "select_covid_patient_X_ray_images.py" and "select_normal_patient_X_ray_images.py" respectively

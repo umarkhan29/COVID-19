@@ -19,7 +19,7 @@ Code can be modified for any combination of selection of images
 
 
 # X-RAY Image (COVID-19)
-![INPUTS](/images/covid-19.PNG)
+![INPUTS](/images/covid-19.png)
 ### [Data Set Image]
 <br><br>
 

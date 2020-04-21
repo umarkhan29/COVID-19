@@ -14,7 +14,7 @@ Code can be modified for any combination of selection of images
 <br><br>
 
 
-# select_normal_patient_X_ray_images
+# select_normal_patient_X_ray_images.py
 This code finds all x-ray images of normal patients and stores selected image to an normal-images directory
 + It uses metadata.csv for searching and retrieving images name
 + Using ./images folder it selects the retrieved images and copies them in normal-images folder

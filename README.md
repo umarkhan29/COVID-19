@@ -1,6 +1,10 @@
 # COVID-19
-A CNN Model to predict if a person is affected with COVID-19 using the x-ray images. The model has been trained on about 300 images and the accuracy of the model currently is 73.19 %
+A CNN Model to predict if a person is affected with COVID-19 using the x-ray images. The model has been trained on about 300 images and the accuracy of the model currently is 73.19 %.
 <br><br>
+
+# Dataset
+https://github.com/ieee8023/covid-chestxray-dataset
+<br> <br>
 
 # select_covid_patient_X_ray_images.py
 This code finds all x-ray images of patients of COVID-19 and stores selected image to an COVID directory
